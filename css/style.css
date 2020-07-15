@@ -30,6 +30,15 @@ ul, li {
 .FutureArticle {
 	margin: 40px 0;
 }
+.FutureArticle .container {
+	display: flex;
+}
+.RailRight {
+	width: 410px;
+}
+.article {
+	flex: 1;
+}
 
 
 
