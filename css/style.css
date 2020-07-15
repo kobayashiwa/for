@@ -105,6 +105,10 @@ article {
 	text-transform: uppercase;
 	color: #8F959E;
 }
+.ArticleBody h4 {
+	font-family: 'Fondamento', cursive;
+	font-size: 20px;
+}
 
 figcaption {
 	font-size: 12px;
