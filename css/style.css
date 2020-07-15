@@ -93,6 +93,17 @@ article {
   .copy .writer {
 	  font-weight: 600;
 	  text-transform: uppercase;
+	  margin-right: 8px;
+  }
+  .copy .team {
+	font-family: 'Fondamento', cursive;
+	margin-right: 8px;
+	color: #6B727B;
+  }
+  .copy .time {
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #8F959E;
   }
 
 
