@@ -69,7 +69,20 @@ article {
 	font-size: 48px;
 	font-weight: 500;
 	line-height: 1.2;
+	position: relative;
+	display: inline-block;
+	margin-bottom: 1em;
 }
+.ArticleHeader h3:before {
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -16px;
+	display: inline-block;
+	width: 48px;
+	height: 2px;
+	background-color: #DA0909;
+  }
 
 
 
