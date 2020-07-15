@@ -110,9 +110,16 @@ article {
 	font-size: 20px;
 	margin-top: 40px;
 }
+.ArticleBody p {
+	font-size: 16px;
+	line-height: 1.6;
+	font-weight: 300;
+	margin-top: 40px;
+}
 
 figcaption {
 	font-size: 12px;
+	font-weight: 300;
 }
 
   
