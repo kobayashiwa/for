@@ -58,6 +58,9 @@ article {
 .ArticleImage {
 	width: 100%;
 }
+.ArticleHeader {
+	margin-bottom: 64px;
+}
 .ArticleHeader h2 {
 	font-size: 12px;
 	font-weight: 500;
