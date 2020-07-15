@@ -30,6 +30,10 @@ ul, li {
 .Breadcrumbs {
 	margin: 40px 0;
 }
+.breadcrumb li {
+	display: inline-block;
+	font-weight: 300;
+}
 .FutureArticle {
 	margin: 40px 0;
 }
