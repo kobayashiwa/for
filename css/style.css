@@ -90,6 +90,10 @@ article {
   .copy {
 	  font-size: 12px;
   }
+  .copy .writer {
+	  font-weight: 600;
+	  text-transform: uppercase;
+  }
 
 
 
