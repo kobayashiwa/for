@@ -86,25 +86,31 @@ article {
 	width: 48px;
 	height: 2px;
 	background-color: #DA0909;
-  }
-  .copy {
-	  font-size: 12px;
-  }
-  .copy .writer {
-	  font-weight: 600;
-	  text-transform: uppercase;
-	  margin-right: 8px;
-  }
-  .copy .team {
+}
+.copy {
+	font-size: 12px;
+}
+.copy .writer {
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-right: 8px;
+}
+.copy .team {
 	font-family: 'Fondamento', cursive;
 	margin-right: 8px;
 	color: #6B727B;
-  }
-  .copy .time {
+}
+.copy .time {
 	font-weight: 600;
 	text-transform: uppercase;
 	color: #8F959E;
-  }
+}
+
+figcaption {
+	font-size: 12px;
+}
+
+  
 
 
 
