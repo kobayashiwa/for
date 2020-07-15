@@ -30,14 +30,17 @@ ul, li {
 .FutureArticle {
 	margin: 40px 0;
 }
-.FutureArticle .container {
+.ArticleWrap {
 	display: flex;
+}
+article {
+	flex: 1;
 }
 .RailRight {
 	width: 410px;
 }
-.article {
-	flex: 1;
+.ArticleImage {
+	width: 100%;
 }
 
 
