@@ -58,6 +58,12 @@ article {
 .ArticleImage {
 	width: 100%;
 }
+.ArticleHeader h2 {
+	font-size: 12px;
+	font-weight: 500;
+	color: #DA0909;
+	text-transform: uppercase;
+}
 
 
 
