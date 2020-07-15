@@ -63,6 +63,12 @@ article {
 	font-weight: 500;
 	color: #DA0909;
 	text-transform: uppercase;
+	margin-bottom: 8px;
+}
+.ArticleHeader h3 {
+	font-size: 48px;
+	font-weight: 500;
+	line-height: 1.2;
 }
 
 
