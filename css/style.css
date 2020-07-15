@@ -119,10 +119,17 @@ article {
 .ArticleImage {
 	margin-top: 40px;
 }
-
 figcaption {
 	font-size: 12px;
 	font-weight: 300;
+}
+.ReadMore {
+	margin-top: 40px;
+}
+.ReadMore p {
+	margin-top: 0;
+	font-size: 20px;
+	font-weight: 500;
 }
 
   
