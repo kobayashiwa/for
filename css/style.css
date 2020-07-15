@@ -116,6 +116,9 @@ article {
 	font-weight: 300;
 	margin-top: 40px;
 }
+.ArticleImage {
+	margin-top: 40px;
+}
 
 figcaption {
 	font-size: 12px;
