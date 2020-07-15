@@ -51,6 +51,7 @@ ul, li {
 }
 article {
 	flex: 1;
+	padding-right: 32px;
 }
 .RailRight {
 	width: 410px;
